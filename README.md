@@ -8,3 +8,5 @@ informing decision-making on where to establish new health facilities.This proje
 analysing health facility distribution, focusing on its impact on infant mortality rates. By using available data, health organizations 
 can use visualizations to make decisions on where to establish new health facilities as well as what significant health promotion 
 strategies to employ.  
+
+This project was completed as part of my Information Visualization class under the supervision of Dr. Jonathan Leidig. 
