@@ -1,4 +1,4 @@
-# information-visualization
+# Data Analaysis and Information Visualization
 Geospatial Analysis of Health Facility Distribution in Kenya:  A County-Level Assessment
 
 The geographic location of health facilities influences the health acess and health behaviors of individuals in the 
